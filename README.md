@@ -152,6 +152,7 @@ const iosSettings = {
     badge: true,
     sound: true,
     alert: true,
+    clearBadge: true,
     interactiveSettings: {
         actions: [{
             identifier: 'READ_IDENTIFIER',
@@ -201,6 +202,7 @@ var iosSettings = {
     badge: true,
     sound: true,
     alert: true,
+    clearBadge: true,
     interactiveSettings: {
         actions: [{
             identifier: 'READ_IDENTIFIER',
